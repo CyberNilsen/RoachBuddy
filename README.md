@@ -81,8 +81,8 @@ RoachBuddy is created for entertainment purposes only. It's a harmless desktop c
 
 ## 📜 License
 
-[License](https://github.com/CyberNilsen/RoachBuddy/blob/master/LICENSE)
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is open-source and available under the [MIT License](LICENSE).
+
 ---
 
 🪳 **Enjoy your new roach companion!** 🪳
