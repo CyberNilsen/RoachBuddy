@@ -55,7 +55,6 @@ This project is currently in active development. Features and functionality are 
 - **Language**: Python 100%
 - **Type**: Desktop Application
 - **Platform**: Cross-platform (Windows, macOS, Linux)
-- **Architecture**: Standalone executable
 
 ## 📁 Project Structure
 
