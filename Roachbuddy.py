@@ -83,12 +83,12 @@ def update(cycle,check,event_number,x):
 window = tk.Tk()
 
 #call buddy's action gif
-idle = [tk.PhotoImage(file=impath+'testtexas.gif',format = 'gif -index %i' %(i)) for i in range(4)] #idle gif
-idle_to_sleep = [tk.PhotoImage(file=impath+'testtexas.gif',format = 'gif -index %i' %(i)) for i in range(4)] #idle to sleep gif
-sleep = [tk.PhotoImage(file=impath+'testtexas.gif',format = 'gif -index %i' %(i)) for i in range(4)] #sleep gif
-sleep_to_idle = [tk.PhotoImage(file=impath+'testtexas.gif',format = 'gif -index %i' %(i)) for i in range(4)] #sleep to idle gif
-walk_positive = [tk.PhotoImage(file=impath+'testtexas.gif',format = 'gif -index %i' %(i)) for i in range(4)] #walk to left gif
-walk_negative = [tk.PhotoImage(file=impath+'testtexas.gif',format = 'gif -index %i' %(i)) for i in range(4)] #walk to right gif
+idle = [tk.PhotoImage(file=impath+'roachidle.gif',format = 'gif -index %i' %(i)) for i in range(6)] #idle gif
+idle_to_sleep = [tk.PhotoImage(file=impath+'roachidle.gif',format = 'gif -index %i' %(i)) for i in range(6)] #idle to sleep gif
+sleep = [tk.PhotoImage(file=impath+'roachidle.gif',format = 'gif -index %i' %(i)) for i in range(6)] #sleep gif
+sleep_to_idle = [tk.PhotoImage(file=impath+'roachidle.gif',format = 'gif -index %i' %(i)) for i in range(6)] #sleep to idle gif
+walk_positive = [tk.PhotoImage(file=impath+'roachwalk.gif',format = 'gif -index %i' %(i)) for i in range(3)] #walk to left gif
+walk_negative = [tk.PhotoImage(file=impath+'roachwalk.gif',format = 'gif -index %i' %(i)) for i in range(3)] #walk to right gif
 
 #window configuration
 window.config(highlightbackground='black')
