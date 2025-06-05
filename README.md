@@ -72,7 +72,7 @@ Contributions are welcome! Feel free to:
 
 ## ⚠️ Disclaimer
 
-RoachBuddy is created for entertainment purposes only. It's a harmless desktop companion application and contains no malicious code **currently**.
+RoachBuddy is created for entertainment purposes only. It's a harmless desktop companion application and contains no malicious code.
 
 ## 📜 License
 
