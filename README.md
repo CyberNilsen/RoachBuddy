@@ -1,6 +1,8 @@
 # RoachBuddy 🪳
 
-A Python-based desktop companion inspired by the classic BonziBuddy, but with a twist - it's a roach! 
+A Python-based desktop companion inspired by the classic BonziBuddy, but with a twist - it's a roach!
+
+![RoachBuddy](https://github.com/user-attachments/assets/754b9243-5bb3-45b9-9810-a37531d1c5df)
 
 ## 🐛 What is RoachBuddy?
 
@@ -28,13 +30,7 @@ RoachBuddy is a fun desktop pet application created in Python that brings a virt
    cd RoachBuddy
    ```
 
-2. **Install dependencies**
-   ```bash
-   pip install -r requirements.txt
-   ```
-   *Note: If no requirements.txt exists, the program likely uses standard Python libraries*
-
-3. **Run RoachBuddy**
+2. **Run RoachBuddy**
    ```bash
    python Roachbuddy.py
    ```
@@ -76,7 +72,7 @@ Contributions are welcome! Feel free to:
 
 ## ⚠️ Disclaimer
 
-RoachBuddy is created for entertainment purposes only. It's a harmless desktop companion application and contains no malicious code **currently**.
+RoachBuddy is created for entertainment purposes only. It's a harmless desktop companion application and contains no malicious code.
 
 ## 📜 License
 
